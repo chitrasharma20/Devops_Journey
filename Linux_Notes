@@ -4,5 +4,13 @@ pwd → show current directory
 cd → change directory
 mkdir → create folder
 rm → delete file
-
-
+echo-> to display
+where -> to find path (where python)
+ls -a ->to show hidden directory
+cat file_name -> to show the file and reate thefile
+echo "message" > file_name -> wite the message in thr file
+cat file.txt | tr a-z A-Z > new.txt -> all the lines i file.txt file changed into upercase and stored in the new.txt  //////(tr) like a tunnel
+cp new.txt cpoy_new.txt -> copy content of new.txt in copy_new.txt
+man -> used to kow about the cpmman like help
+df -h -_> to know about disk space
+diff file.txt file2.txt -> to shows differance in wo files
